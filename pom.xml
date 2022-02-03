@@ -39,7 +39,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>Saideepchand2</username>
 						<password>9963844305Sai</password>
-						<applicationName>nor-jen-employee</applicationName>
+						<applicationName>normal-jen-employee</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
